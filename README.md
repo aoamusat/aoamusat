@@ -1,17 +1,38 @@
-### Hi! 
+<h1 align="center">Hi 👋, I'm Hakeem Olayide</h1>
+<h3 align="center">Software Engineer. Aspiring Principal Enginner</h3>
 
-- I'm Akeem, I am a software developer with a focus on backend development, cloud, and software engineering
-- I’m currently working on Backend Development with Nodejs & Python
-- I am currently learning Go
-- I enjoy: gaming, hiking, and playing music. 🎸
-- I am always trying to be a better version of myself.
-- ⚡ Fun fact: I love brown cats 🐈 
+```yaml
+{
+  "pronouns": "He/Him",
+  "contact": {
+    "email": "aoamusat@gmail.com"
+  },
+  "aboutMe": 
+    "Hi there! I'm Hakeem Olayide, a software engineer passionate about building scalable, reliable, and user-centric systems. 
+    With experience across a wide range of technologies, I focus on writing clean, efficient, and maintainable code that makes a difference.
 
-`✨ my skills ✨`  
+    I thrive in collaborative settings and bring strong communication skills to every team I join 💬. Whether it's tackling complex challenges 
+    or brainstorming innovative solutions, I enjoy working toward shared goals and pushing the limits of technology 🚀.
 
-![My Skills](https://skillicons.dev/icons?i=py,nodejs,django,aws,docker,go&theme=light)
+    Let's connect and create something amazing! I'm always excited to engage with fellow tech enthusiasts, collaborate on impactful projects, 
+    and explore opportunities for continuous growth and innovation 🌱."
+}
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faoamusat&label=%F0%9F%8F%A1%20visitors&labelColor=%232ccce4&countColor=%23dce775&style=flat-square)
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aoamusat) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7326063) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/olayml)
+### Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Crafting Code That Stands the Test of Time - The SOLID Principles](https://olayml.xyz/posts/understanding-solid-principle-in-python/)
+- [Unleashing the Power of Generators in Python - Memory-Efficient Code That Flows Effortlessly](https://olayml.xyz/posts/unleashing-the-power-of-genetors-in-python/)
+- [Type Hinting in Python](https://olayml.xyz/posts/type-hinting-in-python/)
+- [Working With Digitalocean Serverless Functions](https://olayml.xyz/posts/working-with-digitalocean-serverless-function/)
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://olayml.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tijan_io" height="30" width="40" /></a>
+<a href="https://twitter.com/olayml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tijan_io" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aoamusat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tijanayo" height="30" width="40" /></a>
+<a href="https://hashnode.com/@aoamusat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tijan" height="30" width="40" /></a>
+</p>
