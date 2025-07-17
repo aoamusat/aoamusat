@@ -23,15 +23,12 @@
 ### Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Code That Stands the Test of Time - The SOLID Principles](https://olayml.xyz/posts/understanding-solid-principle-in-python/)
-- [Unleashing the Power of Generators in Python - Memory-Efficient Code That Flows Effortlessly](https://olayml.xyz/posts/unleashing-the-power-of-genetors-in-python/)
-- [Type Hinting in Python](https://olayml.xyz/posts/type-hinting-in-python/)
-- [Working With Digitalocean Serverless Functions](https://olayml.xyz/posts/working-with-digitalocean-serverless-function/)
+- [My Articles](https://a4m.dev/articles)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://olayml.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tijan_io" height="30" width="40" /></a>
+<a href="https://a4m.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tijan_io" height="30" width="40" /></a>
 <a href="https://twitter.com/olayml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tijan_io" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aoamusat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tijanayo" height="30" width="40" /></a>
 <a href="https://hashnode.com/@aoamusat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tijan" height="30" width="40" /></a>
